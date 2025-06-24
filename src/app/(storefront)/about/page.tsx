@@ -3,22 +3,22 @@
 import { motion } from 'framer-motion'
 import Image from 'next/image'
 import Link from 'next/link'
-import { Button, buttonVariants } from '@/components/ui/button'
-import { Card, CardContent } from '@/components/ui/card'
+import { buttonVariants } from '@/components/ui/button'
+// import { Card, CardContent } from '@/components/ui/card'
 import {
   Heart,
   Leaf,
   Users,
-  Award,
+  // Award,
   Truck,
   Shield,
-  Target,
+  // Target,
   Globe,
   TrendingUp,
   Star,
   Mail,
-  Phone,
-  MapPin,
+  // Phone,
+  // MapPin,
   ArrowRight
 } from 'lucide-react'
 

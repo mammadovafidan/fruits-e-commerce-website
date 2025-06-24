@@ -9,7 +9,7 @@ import {
   Star,
   Minus,
   Plus,
-  ShoppingCart,
+  // ShoppingCart,
   Heart,
   Share2,
   ArrowLeft,
@@ -18,7 +18,7 @@ import {
   RotateCcw
 } from 'lucide-react'
 import { Button, buttonVariants } from '@/components/ui/button'
-import { Card, CardContent } from '@/components/ui/card'
+// import { Card, CardContent } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
 import { supabase } from '@/lib/supabase/client'
