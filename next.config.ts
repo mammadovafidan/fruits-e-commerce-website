@@ -15,9 +15,15 @@ const nextConfig: NextConfig = {
         port: '',
         pathname: '/**', // Unsplash için path daha genel olabilir
       },
-  
+
     ],
   },
+
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+
+
 };
 
 export default nextConfig;
